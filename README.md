@@ -26,6 +26,7 @@ A curated list of useful GitHub repositories, articles, and tools for modern fro
 - [airbnb/javascript](https://github.com/airbnb/javascript) – Airbnb's JavaScript style guide.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Short JavaScript code snippets for all levels.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) – Deep dive into core JS concepts.
+- [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33 Concepts Every JavaScript Developer Should Know
 
 ## React
 
