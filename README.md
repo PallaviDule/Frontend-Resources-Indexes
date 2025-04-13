@@ -22,6 +22,7 @@ A curated list of useful GitHub repositories, articles, and tools for modern fro
 ## JavaScript
 
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) – Algorithms and data structures in JS with explanations.
+- [TheAlgorithms](https://github.com/TheAlgorithms/JavaScript) - Algorithms and Data Structures implemented in JavaScript for beginners, following best practices.
 - [airbnb/javascript](https://github.com/airbnb/javascript) – Airbnb's JavaScript style guide.
 - [30-seconds/30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) – Short JavaScript code snippets for all levels.
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) – Deep dive into core JS concepts.
