@@ -44,6 +44,7 @@ A curated list of useful GitHub repositories, articles, and tools for modern fro
 
 ## UI Components
 - [ant design](https://ant.design/components/overview)
+- [material ui](https://mui.com/material-ui/getting-started/)
 
 ## Interview Prep
 
