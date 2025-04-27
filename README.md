@@ -42,6 +42,9 @@ A curated list of useful GitHub repositories, articles, and tools for modern fro
 - [necolas/normalize.css](https://github.com/necolas/normalize.css) – CSS normalization across browsers.
 - [css-modules/css-modules](https://github.com/css-modules/css-modules) – Modular and reusable CSS in JS.
 
+## UI Components
+- [ant design](https://ant.design/components/overview)
+
 ## Interview Prep
 
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) – Everything you need to prepare for frontend interviews.
